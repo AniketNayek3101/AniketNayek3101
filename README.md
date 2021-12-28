@@ -1,7 +1,7 @@
 ## Hi there, I'm Aniket 👋
 ![](https://komarev.com/ghpvc/?username=AniketNayek3101&color=blueviolet)
 
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishal-kumar-08a25318b/)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/)
 <img src="https://raw.githubusercontent.com/jashnimje/jashnimje/master/image1.png" height="250px" width="320px" alt="illustration" align="right">
 ### I'm a student, currently pursuing my second year Bachelor of Technology in Computer Science and Engineering!!
 
